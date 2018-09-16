@@ -58,6 +58,8 @@ allow user to specify:
 
 # Practice
 
+* 2018/09/16 Setup Raspberry PI USB - success
+
 # Writing
 
 * 2018/08/?? Minor typo corrections to ??
