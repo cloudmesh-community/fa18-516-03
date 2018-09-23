@@ -81,13 +81,13 @@ allow user to specify:
 
 # Week 4: 09/10/2018 - 09/16/2018
 
-## Meetings
-## Logistics
-## Theory
-* 09/15/2018 Read Cloud Computing - Architectures
-## Practice
-* 09/15/2018 Install Raspbian and boot PI cluster
-## Writing
+* Meetings
+* Logistics
+* Theory
+  * 09/15/2018 Read Cloud Computing - Architectures
+* Practice
+  * 09/15/2018 Install Raspbian and boot PI cluster
+* Writing
 
 # Week 5: 09/17/2018 - 09/23/2018
 
