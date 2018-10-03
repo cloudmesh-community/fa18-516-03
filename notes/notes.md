@@ -15,7 +15,7 @@
 
 # Section sign-up details:
 ## Legend
- * :o: \:o\: section not yet released
+ * :o: `:o:` section not yet released
  * :question: section can be improved by student
  * :hand: section taken by studen (put hid bellow heading)
  * :smiley: section marked ready by students for grading. We keep it in this
