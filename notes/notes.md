@@ -23,4 +23,15 @@
  * :wave: `:wave:` TAs or other students suggest a modification.
  * :+1: `:+1:` section is graded, grade is not posted on web 
 
+# Students with good PI info
 
+* [hid-sp18-412](https://github.com/cloudmesh-community/hid-sp18-412)
+
+# Some other interesting projects
+
+## Cloudmesh v4
+David D working on `cm` tool for tracking files across clouds.
+* [Piazza description](https://piazza.com/class/jgxybbf5rnx5qd?cid=142)
+* [cloudmesh-community / cm](https://github.com/cloudmesh-community/cm)
+* [davidmdem / cm](https://github.com/cloudmesh-community/cm)
+* [Google Drive CLI Client](https://github.com/prasmussen/gdrive)
