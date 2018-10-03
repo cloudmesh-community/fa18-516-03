@@ -7,7 +7,9 @@
 * [cloudmesh-community / book](https://github.com/cloudmesh-community/book)
 * [book / pi](https://github.com/cloudmesh-community/book/tree/master/chapters/pi)
 * [pi / kubernetes](https://github.com/cloudmesh-community/book/tree/master/chapters/pi/kubernetes)
-
+* [YAML Syntax from Ansible](https://docs.ansible.com/ansible/latest/reference_appendices/YAMLSyntax.html)
+* [YAML Syntax from Wikipedia](https://en.wikipedia.org/wiki/YAML)
+* [YAML Validator](https://codebeautify.org/yaml-validator)
 
 # TODO
 * Install libcloud
