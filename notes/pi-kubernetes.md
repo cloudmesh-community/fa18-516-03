@@ -16,4 +16,10 @@ Should just disable swap for Docker
 * [Docker: disable swap](https://docs.docker.com/config/containers/resource_constraints/#--memory-swap-details)
 
 
+# Kubernetes on PI
+
+* [From Hypriot people](https://blog.hypriot.com/post/setup-kubernetes-raspberry-pi-cluster/)
+* [Kubernetes documentation](https://kubernetes.io/docs/setup/independent/install-kubeadm/)
+* [Kubernetes on PI lite](https://gist.github.com/alexellis/fdbc90de7691a1b9edb545c17da2d975)
+
 
