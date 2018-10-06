@@ -106,15 +106,18 @@ allow user to specify:
 * Meetings
 * Logistics
 * Theory
-  * 09/??/2018 TODO: Read Cloud Computing - Virtualization
+  * 09/29/2018 Read Cloud Computing - Virtualization
 * Practice
 * Writing
 
 # Week 7: 10/01/2018 - 10/07/2018
 
 * Meetings
+  * 10/01/2018 Attend office hourse - discuss PI project
 * Logistics
 * Theory
 * Practice
+  * 10/03/2018 Use cm-burn to setup 5 PIs
+  * 10/04/2018 Update cm-burn with new options, OS X fixes, improvements
 * Writing
 

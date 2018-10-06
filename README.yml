@@ -11,5 +11,5 @@ chapter:
   - title: Raspberry PI Kubernetes
       url: "https://github.com/cloudmesh-community/book/tree/master/chapters/pi/kubernetes"
 project:
-  - title: TBD
-      url: TBD
+  - title: cm-burn
+      url: "https://github.com/cloudmesh-community/cm-burn"
