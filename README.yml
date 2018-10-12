@@ -6,10 +6,10 @@ owner:
   community: "e516"
 section:
   - title: TBD
-      url: TBD
+    url: TBD
 chapter:
   - title: Raspberry PI Kubernetes
-      url: "https://github.com/cloudmesh-community/book/tree/master/chapters/pi/kubernetes"
+    url: "https://github.com/cloudmesh-community/book/tree/master/chapters/pi/kubernetes"
 project:
   - title: cm-burn
-      url: "https://github.com/cloudmesh-community/cm-burn"
+    url: "https://github.com/cloudmesh-community/cm-burn"
