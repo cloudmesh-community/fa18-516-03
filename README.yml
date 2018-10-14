@@ -7,7 +7,7 @@ owner:
 section:
   - title: TBD
     url: TBD
-chapter:
+paper:
   - title: Raspberry PI Kubernetes
     url: "https://github.com/cloudmesh-community/book/tree/master/chapters/pi/kubernetes"
 project:
