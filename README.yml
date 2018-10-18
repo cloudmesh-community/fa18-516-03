@@ -14,3 +14,9 @@ paper:
 project:
   - title: cm-burn
     url: "https://github.com/cloudmesh-community/cm-burn"
+other:
+  - activity: grammar and spell check Virtualization chapter
+    url: "https://github.com/jonathanbranam/book/blob/master/chapters/cloud/virtualization.md"
+  - activity: grammar and spell check E516 summary
+    url: "https://github.com/jonathanbranam/book/blob/master/chapters/class/e516-summary.md"
+

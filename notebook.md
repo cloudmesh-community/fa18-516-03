@@ -121,3 +121,21 @@ allow user to specify:
   * 10/04/2018 Update cm-burn with new options, OS X fixes, improvements
 * Writing
 
+# Week 8: 10/08/2018 - 10/14/2018
+
+* Meetings
+* Logistics
+* Theory
+  * 10/11/2018 Read Infrastructure as a Service
+* Practice
+* Writing
+
+# Week 8: 10/15/2018 - 10/21/2018
+
+* Meetings
+* Logistics
+* Theory
+* Practice
+* Writing
+  * 10/17/2018 Typos and grammar fixes for Virtualization Chapter
+
