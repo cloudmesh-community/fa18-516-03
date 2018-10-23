@@ -130,7 +130,7 @@ allow user to specify:
 * Practice
 * Writing
 
-# Week 8: 10/15/2018 - 10/21/2018
+# Week 9: 10/15/2018 - 10/21/2018
 
 * Meetings
 * Logistics
@@ -138,4 +138,17 @@ allow user to specify:
 * Practice
 * Writing
   * 10/17/2018 Typos and grammar fixes for Virtualization Chapter
+  * 10/18/2018 Merged all the separate notes for PI Kubernetes
+  * 10/18/2018 Added pandoc-index requirement to preface.
+
+# Week 10: 10/22/2018 - 10/28/2018
+
+* Meetings
+  * 10/22/2018 Discuss Raspberry PI with Gregor and diagnose problems with
+    CircleCI setup for cloudmesh/technologies build process. Also find the way
+    to update a fork using the Github Web UI
+* Logistics
+* Theory
+* Practice
+* Writing
 
