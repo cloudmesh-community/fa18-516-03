@@ -37,3 +37,16 @@ David D working on `cm` tool for tracking files across clouds.
 * [cloudmesh-community / cm](https://github.com/cloudmesh-community/cm)
 * [davidmdem / cm](https://github.com/cloudmesh-community/cm)
 * [Google Drive CLI Client](https://github.com/prasmussen/gdrive)
+
+# 10/22/18 Gregor
+
+## Take over NOW
+## Update cm-burn images with the new network diagram
+## Access internet from PIs
+  * At IU internet the PIs cannot directly access the internet
+## Use a cluster over a single ssh
+  * pdsh
+  * cssh
+## Boot 100 PIs on Chameleon Cloud
+
+
