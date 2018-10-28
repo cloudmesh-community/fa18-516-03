@@ -151,4 +151,21 @@ allow user to specify:
 * Theory
 * Practice
 * Writing
+  * 10/27/2018 Setting up a single large cluster with cm-burn
+
+# Week 11: 10/29/2018 - 11/04/2018
+
+* Meetings
+* Logistics
+* Theory
+* Practice
+* Writing
+
+# Week 12: 11/05/2018 - 11/11/2018
+
+* Meetings
+* Logistics
+* Theory
+* Practice
+* Writing
 

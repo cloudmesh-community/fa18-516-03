@@ -49,4 +49,37 @@ David D working on `cm` tool for tracking files across clouds.
   * cssh
 ## Boot 100 PIs on Chameleon Cloud
 
+# PI Master-Cluster setup
+
+## Need another NIC
+
+For setting up the PIs as a cluster we need some device that has two NICs,
+either two Ethernet ports or an Ethernet and a WiFi connection. Ideally, we
+would use wired connections for everything, but this is problematic for the PIs
+since they only contain one Ethernet port.
+
+One idea is to buy a USB-Ethernet adapter and use it on the master PI to be able
+to connect to both networks. This seems like the most stable solution. There are
+some notes about [NIC naming changes in Raspbian
+Stretch](https://www.freedesktop.org/wiki/Software/systemd/PredictableNetworkInterfaceNames/)
+and also a list of [RPi compatible USB Ethernet
+adapters](https://elinux.org/RPi_USB_Ethernet_adapters).
+
+## Virtual Networking
+
+I thought maybe I could just setup a virtual Ethernet so the Master PI could be
+on two networks at the same time. This might work, but there is still a problem
+of assigned IP addresses to the rest of the PIs in the cluster. DHCP will be a
+problem if the non-master PIs can access the real network. DHCP is first come
+first served so we cannot ensure that a PI will get an IP address from the
+Master or from some other DHCP server on the network. Therefore we would have to
+manually assign IP addresses (which could clash when a cluster is combined) or
+we must segregate the PI cluster from the external network by using a PI (or
+other device) that has two NICs.
+
+  * Linux virtual network interfaces
+    * https://linuxconfig.org/configuring-virtual-network-interfaces-in-linux#h3-2-dhcp
+    * https://stackoverflow.com/questions/2082722/how-do-i-create-virtual-ethernet-devices-in-linux
+    * https://unix.stackexchange.com/questions/152331/how-can-i-create-a-virtual-ethernet-interface-on-a-machine-without-a-physical-ad
+
 
