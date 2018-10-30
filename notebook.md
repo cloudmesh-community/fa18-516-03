@@ -156,6 +156,7 @@ allow user to specify:
 # Week 11: 10/29/2018 - 11/04/2018
 
 * Meetings
+  * 10/29/2018 Discuss PI networking and Kubernetes next steps
 * Logistics
 * Theory
 * Practice

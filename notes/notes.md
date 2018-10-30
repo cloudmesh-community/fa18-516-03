@@ -1,6 +1,6 @@
 # Notes for E516
 
-# Resources:
+## Resources:
 
 * [516 signup sheet](https://docs.google.com/spreadsheets/d/1muSL3jbAiydonj5vX3X4nVOCOpxG9OgczP1dCwh85dw/edit#gid=0)
 * [516 Piazza](https://piazza.com/class/jgxybbf5rnx5qd)
@@ -15,8 +15,8 @@
 * Install libcloud
 * Read MQTT section
 
-# Section sign-up details:
-## Legend
+## Section sign-up details:
+### Legend
  * :o: `:o:` section not yet released
  * :question: `:question:` section can be improved by student
  * :hand: `:hand:` section taken by studen (put hid bellow heading)
@@ -25,29 +25,29 @@
  * :wave: `:wave:` TAs or other students suggest a modification.
  * :+1: `:+1:` section is graded, grade is not posted on web 
 
-# Students with good PI info
+## Students with good PI info
 
 * [hid-sp18-412](https://github.com/cloudmesh-community/hid-sp18-412)
 
-# Some other interesting projects
+## Some other interesting projects
 
-## Cloudmesh v4
+### Cloudmesh v4
 David D working on `cm` tool for tracking files across clouds.
 * [Piazza description](https://piazza.com/class/jgxybbf5rnx5qd?cid=142)
 * [cloudmesh-community / cm](https://github.com/cloudmesh-community/cm)
 * [davidmdem / cm](https://github.com/cloudmesh-community/cm)
 * [Google Drive CLI Client](https://github.com/prasmussen/gdrive)
 
-# 10/22/18 Gregor
+## 10/22/18 Gregor
 
-## Take over NOW
-## Update cm-burn images with the new network diagram
-## Access internet from PIs
-  * At IU internet the PIs cannot directly access the internet
-## Use a cluster over a single ssh
-  * pdsh
-  * cssh
-## Boot 100 PIs on Chameleon Cloud
+### Take over NOW
+### Update cm-burn images with the new network diagram
+### Access internet from PIs
+      * At IU internet the PIs cannot directly access the internet
+### Use a cluster over a single ssh
+      * pdsh
+      * cssh
+### Boot 100 PIs on Chameleon Cloud
 
 # PI Master-Cluster setup
 
@@ -82,4 +82,13 @@ other device) that has two NICs.
     * https://stackoverflow.com/questions/2082722/how-do-i-create-virtual-ethernet-devices-in-linux
     * https://unix.stackexchange.com/questions/152331/how-can-i-create-a-virtual-ethernet-interface-on-a-machine-without-a-physical-ad
 
+## Sync tmux ssh panes
+
+<https://sanctum.geek.nz/arabesque/sync-tmux-panes/>
+
+:setw synchronize-panes
+
+## 10/29/2018 Gregor
+
+  * 
 
