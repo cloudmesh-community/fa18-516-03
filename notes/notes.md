@@ -90,5 +90,29 @@ other device) that has two NICs.
 
 ## 10/29/2018 Gregor
 
-  * 
+  * How to organize PI networking sections?
+    * In `setup-ultimate.md`
+    * 7.7 Setting up a small cluster with cm-burn
+    * Setup for single PI
+      * One without cm-burn
+      * One with cm-burn
+    * Network of Workstations
+      * Uses cm-burn
+    * Move all setup of multiple PIs to NOW section
+    * How to use tmux
+    * cm-burn
+    * Setup the DMZ with another NAT
+    * Assign IP addresses all at the beginning for each cluster.
+    * Could track HW ARP addresses in the database
+  * On the dev PC
+    * REST service
+    * Put Docker swarm on the entire cluster
+    * Next day, replace Docker Swarm with Kubernetes
+    * How to enable/disable the services
+
+  * Make sure Gregor can read documentation and build a cluster
+
+
+
+
 
