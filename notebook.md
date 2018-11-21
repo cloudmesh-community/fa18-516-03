@@ -170,3 +170,25 @@ allow user to specify:
 * Practice
 * Writing
 
+# Week 13: 11/12/2018 - 11/18/2018
+
+* Meetings
+* Logistics
+* Theory
+* Practice
+* Writing
+
+# Week 14: 11/19/2018 - 11/26/2018
+
+## Thanksgiving!
+
+* Meetings
+* Logistics
+* Theory
+* Practice
+  * Fixed cm-burn `pip install .` issues
+    1. `cm-burn.py` had to be renamed to `cmburn.py` due to Python's module naming
+       rules.
+    2. `pyyaml` needed to be added as a dependency in `setup.py`.
+* Writing
+
