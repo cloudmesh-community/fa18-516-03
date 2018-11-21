@@ -4,8 +4,9 @@
 | jobranam@iu.edu
 | Indiana University
 | hid: fa18-516-03
-| github: [:cloud:](https://github.com/cloudmesh-community/proceedings-fa18/blob/master/project-report/report.md)
-| code: [:cloud:](https://github.com/cloudmesh-community/proceedings-fa18/blob/master/project-code)
+| github: [:cloud:](https://github.com/cloudmesh-community/fa18-516-03)
+| code: [:cloud:](https://github.com/cloudmesh-community/cm-burn)
+| code: [:cloud:](https://github.com/cloudmesh-community/pi)
 
 ---
 
@@ -20,7 +21,8 @@ computing in a small form factor and for a minimal cost. A single Pi computer
 can be purchased for around $35 USD and a large cluster can therefore be built
 with minimal investment. In this project I improved the existing support for the
 `cm-burn` tool to setup an SD card for the Pi and also installed and ran
-experiments on Kubernetes on the Raspberry Pi.
+experiments on Kubernetes on the Raspberry Pi. I also created a new set of tools
+to help setup a Raspberry Pi for use in cluster computing.
 
 ## Introduction
 
