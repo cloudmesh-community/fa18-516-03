@@ -6,15 +6,19 @@ owner:
   community: "e516"
   semester: "fa18"
 section:
-  - title: TBD
-    url: TBD
-paper:
+  - title: Raspberry Pi Setup
+    url: "https://github.com/cloudmesh-community/book/blob/master/chapters/pi/setup-ultimate.md"
+  - title: Raspberry Pi Kubernetes
+    url: "https://github.com/cloudmesh-community/book/blob/master/chapters/pi/clusters/pi-kubernetes.md"
+report:
   - title: Raspberry PI Kubernetes
     keyword: Pi Kubernetes
-    url: "https://github.com/cloudmesh-community/book/tree/master/chapters/pi/kubernetes"
+    url: "https://github.com/cloudmesh-community/fa18-516-03/blob/master/project-report/report.md"
 project:
   - title: cm-burn
     url: "https://github.com/cloudmesh-community/cm-burn"
+  - title: pi setup
+    url: "https://github.com/cloudmesh-community/pi"
 other:
   - activity: grammar and spell check Virtualization chapter
     url: "https://github.com/cloudmesh-community/book/tree/master/chapters/cloud/virtualization.md"

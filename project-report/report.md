@@ -41,10 +41,9 @@ more conveniently.
 In order to use the `cm-burn` tool you must use an operating system that
 supports the ext file system. Currently only Linux has native support for ext,
 so if you are using Windows or macOS then you must purchase a 3rd-party ext
-file system driver. The most commonly used driver is provided by Paragon Systems
+file system driver. The most commonly used driver is provided by 
+[Paragon Software](https://paragon-software.com)
 and is $20 USD for the Windows version and $40 USB for the macOS version.
-
-:o: TODO: Add links to Paragon
 
 ## Design
 
