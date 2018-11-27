@@ -42,3 +42,16 @@ run-parts: executing /etc/kernel/header_postinst.d/dkms 3.6-trunk-rpi
 Error!  The dkms.conf for this module includes a BUILD_EXCLUSIVE directive which
 does not match this kernel/arch.  This indicates that it should not be built.
 
+# 11/26/18 NOTES
+
+Fix the Pi book.
+Make NOW great.
+Organize: Kubernetes, Docker Swarm
+Don't do a benchmark.
+
+Smith Research Center
+Across from Sherman Williams, 10th and Bypass
+2805 E 10th Street
+151
+
+
