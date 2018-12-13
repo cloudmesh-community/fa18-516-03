@@ -186,37 +186,34 @@ $ sudo dhclient -r -v wlan0; sleep 10; sudo dhclient wlan0
     * 6.3 Setup by hand
       * [x] 6.3.5 Wireless Network at Home update with wpa_passphrase setup
     * 6.4 Setting up a Small Cluster by Hand
-      * [ ] Refer to NOW section
-      * [ ] Is there another section like this?
+      * [x] Refer to NOW section
+      * [x] Is there another section like this?
         * Yes, in `clusters/pi-kubernetes.md`
-      * [ ] 6.4.1 Wireless network addresses by hand
-      * [ ] 6.4.2 Static network addresses by hand
-      * [ ] 6.4.3 Mixed wireless and static network
     * 6.6.2 Post configuration
-      * [ ] Generate and copy keys from Pis to each other so they can all login
+      * [x] Generate and copy keys from Pis to each other so they can all login
         without passwords. At least to the master.
     * 6.7 Setting up a small cluster with cm-burn
-      * [ ] this is totally empty!
+      * [x] this is totally empty!
     * 6.8 Setting up a large cluster with cm-burn
-      * [ ] this should be a link to chapter 7 `setup-multiple.md`
+      * [x] this should be a link to chapter 7 `setup-multiple.md`
           Setting up Large PI clusters :o: :hand: fa18-516-23
   * 6.15 `setup-dev.md`
-    * [ ] Update Python 2 and 3 versions
-    * [ ] Explain how to install `pip` and `pip3`
+    * [x] Update Python 2 and 3 versions
+    * [x] Explain how to install `pip` and `pip3`
   * 7-8 `setup-multiple.md`
     * really needs attention but it's marked `fa18-516-23`
   * 9.1 Cluster Setup `setup.md`
     * looks mostly useless
   * 10.1 Network of Pis (NOW) `clusters/pi-now.md`
-    * [ ] Copy/move/write cluster setup to here.
-    * [ ] Move from `clusters/pi-kubernetes.md` Raspberry Pi Cluster Setup
+    * [x] Copy/move/write cluster setup to here.
+    * [x] Move from `clusters/pi-kubernetes.md` Raspberry Pi Cluster Setup
       * Mostly about DHCP and using `rpcluster`
-    * [ ] Setup small cluster by hand
-    * [ ] Three networking options: all on network, route through wifi or usb
+    * [x] Setup small cluster by hand
+    * [x] Three networking options: all on network, route through wifi or usb
       ethernet
-    * [ ] Setup small cluster with `cm-burn`
-    * [ ] Setup large cluster with `cm-burn` (copy and fix `setup-multiple.md`)
-    * [ ] Describe setup using [cm-com/pi](https://github.com/cloudmesh-community/pi.git)
+    * [x] Setup small cluster with `cm-burn`
+    * [x] Setup large cluster with `cm-burn` (copy and fix `setup-multiple.md`)
+    * [x] Describe setup using [cm-com/pi](https://github.com/cloudmesh-community/pi.git)
       * Setup locale is important
   * Awesome TODOs
     * [ ] Write script for Docker Swarm install

@@ -161,14 +161,17 @@ allow user to specify:
 * Theory
 * Practice
 * Writing
+  * 7-8 `setup-multiple.md`
+    * really needs attention but it's marked `fa18-516-23`
+  * 9.1 Cluster Setup `setup.md`
+    * looks mostly useless
 
 # Week 12: 11/05/2018 - 11/11/2018
 
-* Meetings
-* Logistics
-* Theory
-* Practice
 * Writing
+  * 6.15 `setup-dev.md`
+    * [x] Update Python 2 and 3 versions
+    * [x] Explain how to install `pip` and `pip3`
 
 # Week 13: 11/12/2018 - 11/18/2018
 
@@ -177,6 +180,11 @@ allow user to specify:
 * Theory
 * Practice
 * Writing
+    * 6.7 Setting up a small cluster with cm-burn
+      * [x] this is totally empty!
+    * 6.8 Setting up a large cluster with cm-burn
+      * [x] this should be a link to chapter 7 `setup-multiple.md`
+          Setting up Large PI clusters :o: :hand: fa18-516-23
 
 # Week 14: 11/19/2018 - 11/26/2018
 
@@ -192,3 +200,28 @@ allow user to specify:
     2. `pyyaml` needed to be added as a dependency in `setup.py`.
 * Writing
 
+# Week 15: 11/26/2018 - 12/02/2018
+  * Chapter 6: Raspberry PI Setup (small number of Pis)
+    * `setup-ultimate.md`
+    * 6.3 Setup by hand
+      * [x] 6.3.5 Wireless Network at Home update with wpa_passphrase setup
+    * 6.4 Setting up a Small Cluster by Hand
+      * [x] Refer to NOW section
+      * [x] Is there another section like this?
+        * Yes, in `clusters/pi-kubernetes.md`
+# Week 16: 12/03/2018 - 12/09/2018
+    * 6.6.2 Post configuration
+      * [x] Generate and copy keys from Pis to each other so they can all login
+        without passwords. At least to the master.
+# Week 17: 12/10/2018 - 12/14/2018
+  * 10.1 Network of Pis (NOW) `clusters/pi-now.md`
+    * [x] Copy/move/write cluster setup to here.
+    * [x] Move from `clusters/pi-kubernetes.md` Raspberry Pi Cluster Setup
+      * Mostly about DHCP and using `rpcluster`
+    * [x] Setup small cluster by hand
+    * [x] Three networking options: all on network, route through wifi or usb
+      ethernet
+    * [x] Setup small cluster with `cm-burn`
+    * [x] Setup large cluster with `cm-burn` (copy and fix `setup-multiple.md`)
+    * [x] Describe setup using [cm-com/pi](https://github.com/cloudmesh-community/pi.git)
+      * Setup locale is important
